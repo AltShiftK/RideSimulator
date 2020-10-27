@@ -3,8 +3,8 @@ Make your own theme park! Design new rides, add restaurants, and plan out your t
 
 ## Table Of Contents
 
-  1.
-  2.
-  3.
-  4.
+  **
+  **
+  **
+  **
   
